@@ -1,6 +1,6 @@
 # flutter_pokedex
 
-A new Flutter project.
+A new Flutter project.Initial Flutter project setup and dependencies
 
 ## Getting Started
 
