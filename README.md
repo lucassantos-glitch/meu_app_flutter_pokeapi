@@ -1,13 +1,7 @@
 # flutter_pokedex
-
-<<<<<<< HEAD
-A new Flutter project.Initial Flutter project setup and dependencies
-=======
 Aplicativo Flutter que consome a PokeAPI e exibe uma lista de pokemons com detalhes e favoritos.
->>>>>>> 35678f8 (Organização do projeto e novas estruturas (models, pages, services, stores))
 
 ## Estrutura do projeto
-
 ```
 flutter_pokeApi/
 ├─ android/            # Projeto Android (Gradle, manifest, etc.)
